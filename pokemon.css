@@ -1,0 +1,129 @@
+body{
+    background-image:linear-gradient(rgba(46, 45, 45, 0.7), rgba(66, 66, 66, 0.7)),url(https://img.freepik.com/vector-gratis/diseno-banner-abstracto-tonos-rojos_1048-12133.jpg?t=st=1646505348~exp=1646505948~hmac=82b4cddeac206afb96659cf46e3b9b0e9e377a6f8c6bf506e7cff1d0820e980c&w=1380);
+    position: absolute;
+}
+.TextoBa{
+    border: 2px solid darkred;
+    border-radius: 50px;
+    position: relative;
+    left: 35%;
+    top: 50px;
+    background: darkred;
+    font-family: 'Arial', Times, serif;
+    width: auto;
+    font-size: 50px;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    text-shadow: 0 0 20px #000000, 0 0 60px
+    #000000, 0 0 80px #000000;
+    color: darkred;
+    font-size: 50px;
+}
+p{
+    text-align: center;
+    text-shadow: 0 0 20px #000000, 0 0 60px
+    #000000, 0 0 80px #000000;
+    color: black;
+}
+h3{
+
+    text-shadow: 0 0 20px #000000, 0 0 60px
+    #000000, 0 0 80px #000000;
+    color: black;
+    letter-spacing: 10px;
+
+}
+.batalla{
+    border: 10px solid darkred;
+    border-radius: 80px;
+    position: relative;
+    left: 35%;
+    top: 100px;
+    background: darkred;
+    justify-content: space-around;
+    font-family: 'Arial', Times, serif;
+    width: auto;
+    color: black;
+    margin: 0 auto;
+    display: flex;
+    font-style: arial;
+    text-shadow: 0 0 10px #000000, 0 0 40px
+    #000000, 0 0 80px #000000;
+
+}
+h1{
+    font-size: 100px;
+}
+
+.pok1{
+    font-family: fantasy;
+    font-size: 20px;
+    font-style: italic;
+    
+}
+
+.pok2{
+    font-family: fantasy;
+    font-size: 20px;
+    font-style: italic; 
+}
+
+.imagen1{
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+}
+
+.imagen2{
+    border-radius: 50px;
+    height: 150px;
+    width: 150px;
+}
+.t{
+    text-align: center;
+    position: relative;
+    left: 20px;
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 100px;
+    height: 25px;
+    background-color: solid darkviolet;
+}
+
+input{
+    background-color: rgb(192, 9, 9);
+    border-radius: 50px;
+    position: relative;
+    top: 150px;
+    left: 600px;
+    color: orange;
+    font-size: 25px;
+    font-family: fantasy;
+    font-style: italic;
+    width: 150px;
+    letter-spacing: 4px;
+}
+input:hover{
+    background: #a945c7;
+    box-shadow: 0 0 10px #a945c7, 0 0 40px
+    #a945c7, 0 0 80px #a945c7;
+}
+.ba{
+    text-align: center;
+    justify-content: center;
+    }
+
+.Mewtwo{
+    width: 300px;
+    position: relative;
+    bottom: 280px;
+}
+.Lucario{
+    width: 300px;
+    position: relative;
+    centre: 750px;
+    bottom: 280px;
+}
